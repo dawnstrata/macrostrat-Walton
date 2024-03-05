@@ -1,0 +1,26 @@
+interval_name,interval_id,platforms,geosynclines,platform_flooding,geosyncline_flooding,cont_flooding,carbonate,carbonate_clastic,marine_clastic,coal_bearing,evaporite,terrestrial_clastic,geosync_submarine_volc,terrestrial_volc,platform_terrest_trap,glacial,cherty,id,age_bottom,age_top,interval_name,interval_abbrev,interval_type,interval_color,orig_color
+Pliocene,10,2.56,6.96,4,12,5,1.3,1.2,28.1,3.4,0.1,57.5,2.3,3.4,2.7,0,0,10,5.333,2.58,Pliocene,Pli,epoch,#FFFF99,#FFFF99
+Miocene,13,5.07,13.44,8,27,10,5.4,10.2,32.6,3.8,2.2,34.8,1.6,4.4,4.8,0,0.2,13,23.03,5.333,Miocene,Mio,epoch,#FFFF00,#FFFF00
+Oligocene,21,3.08,6.5,5,26,9,4.6,3.8,50.2,5.9,0.3,27.7,3.1,1.7,2.7,0,0,21,33.9,23.03,Oligocene,Ol,epoch,#FDC07A,#FDC07A
+Eocene,24,8.28,12.27,14,37,8,7.3,27.4,28.6,8.1,1,12.1,8.3,2.3,2.9,0,2,24,56,33.9,Eocene,Eo,epoch,#FDB46C,#FDB46C
+Paleocene,29,3.32,3.11,12,31,18,12,15.4,27.8,4.2,0.4,26.2,5.1,6.2,2.4,0,0.3,29,66,56,Paleocene,Pal,epoch,#FDA75F,#FDA75F
+Late Cretaceous,34,19.06,28.88,22,60,15,9.3,22.9,24.3,5.6,0.2,18.7,7.5,6.8,2.1,0,2.6,34,100.5,66,Late Cretaceous,NULL,epoch,#A6D84A,#A6D84A
+Early Cretaceous,41,20.69,30.47,17,63,29,9.7,12.5,31.2,3.4,1,24.6,9.2,3.3,2.5,0,2.6,41,145,100.5,Early Cretaceous,NULL,epoch,#8CCD57,#8CCD57
+Late Jurassic,49,9.33,15.89,15,69,26,13.9,23.1,34.1,3.2,2.9,13.5,5.7,2.4,1.2,0,0,49,161.5,145,Late Jurassic,NULL,epoch,#B3E3EE,#B3E3EE
+Middle Jurassic,53,7.8,14.53,12,62,22,8.1,23,37.2,4.2,0.1,18.3,8.9,0.1,0.1,0,0,53,174.7,161.5,Middle Jurassic,NULL,epoch,#80CFD8,#80CFD8
+Early Jurassic,58,6.78,14.25,7,65,16,10.8,19.6,35.2,3.4,0.1,21.6,8.7,0.6,0,0,0,58,201.4,174.7,Early Jurassic,NULL,epoch,#42AED0,#42AED0
+Late Triassic,64,10.7,23.06,4,62,17,5.1,17.6,21.5,0.6,1.3,30.8,13.2,2.3,6.9,0,0.7,64,237,201.4,Late Triassic,NULL,epoch,#BD8CC3,#BD8CC3
+Middle Triassic,68,1.85,11.16,5,47,15,10.7,16.1,31.1,0.4,0.1,11.4,27.3,2.3,0.6,0,0,68,247.2,237,Middle Triassic,NULL,epoch,#B168B1,#B168B1
+Early Triassic,213,4.81,6.5,4,45,13,0.6,27.4,22.9,0.3,0.9,33.4,10.7,0.4,3.4,0,0,213,251.902,247.2,Early Triassic,NULL,epoch,#983999,#983999
+Late Permian,76,4.79,13.29,5,41,16,0.2,19.8,24.7,4.1,2,34.3,12.9,0.9,0,1.1,0,76,273.01,251.902,Late Permian,NULL,epoch,#FBA794,#FBA794
+Early Permian,80,8.55,25.03,15,59,30,21.4,23.4,8.8,3.5,4.1,9.6,21.9,3.4,0,3.8,0.1,80,298.9,273.01,Early Permian,NULL,epoch,#EE5845,#EE5845
+Pennsylvanian,85,8.76,23.38,14,62,29,13.9,27.7,14.4,11.2,0.1,10.2,11.1,0.9,0.1,10.4,0,85,323.2,298.9,Pennsylvanian,NULL,epoch,#99C2B5,#99C2B5
+Mississippian,90,4.77,28.81,16,63,37,27.8,27.7,8.7,2.6,0.5,5.5,24.8,2.4,0,0,0,90,358.9,323.2,Mississippian,NULL,epoch,#678F66,#678F66
+Late Devonian,95,6,25.8,19,73,40,6.3,35.9,16,0,0.4,11.7,27.5,1.5,0.7,0,0,95,382.7,358.9,Late Devonian,NULL,epoch,#F1E19D,#F1E19D
+Middle Devonian,98,5.23,26.83,20,73,41,3.9,40.3,20.6,0,0.6,9.1,21.4,4.1,0,0,0,98,393.3,382.7,Middle Devonian,NULL,epoch,#F1C868,#F1C868
+Early Devonian,101,6.44,20.7,17,50,30,0.8,25.6,38.6,0,0.1,15.8,15.8,3.6,0,0,0,101,419.2,393.3,Early Devonian,NULL,epoch,#E5AC4D,#E5AC4D
+Silurian,105,5.7,23.3,24,63,38,11.7,14.2,59.3,0,0.4,4.7,7.7,0.4,0,0.3,1.3,105,443.8,419.2,Silurian,S,period,#B3E1B6,#B3E1B6
+Ordovician,112,9.17,35.02,25,75,43,12.1,16.8,50.6,0,0.1,4.2,14.4,0.1,0,0.1,1.6,112,485.4,443.8,Ordovician,O,period,#009270,#009270
+Late Cambrian,123,6.03,13.35,23,67,37,22,29.7,39.1,0,0.1,2.7,6.3,0.1,0,0,0,123,501,485.4,Late Cambrian,NULL,epoch,#B3E095,#B3E095
+Middle Cambrian,128,5.39,16.56,22,73,39,24.3,25.7,37,0,1.4,2.8,8.8,0,0,0,0,128,511,501,Middle Cambrian,NULL,epoch,#BFD99D,#BFD99D
+Early Cambrian,130,7.81,18.23,22,75,40,21.4,25.4,32.3,0,4.2,3.4,10.9,0,1.5,0,0.9,130,538.8,511,Early Cambrian,NULL,epoch,#8CB06C,#8CB06C
